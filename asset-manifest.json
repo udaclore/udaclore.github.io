@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ab08dd0.chunk.css",
+    "main.css": "/static/css/main.fc24d668.chunk.css",
     "main.js": "/static/js/main.cb1277ef.chunk.js",
     "main.js.map": "/static/js/main.cb1277ef.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,9 +8,9 @@
     "static/js/2.172208d4.chunk.js": "/static/js/2.172208d4.chunk.js",
     "static/js/2.172208d4.chunk.js.map": "/static/js/2.172208d4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bdbbbf3a5d427741acd9e88d9d9482c5.js": "/precache-manifest.bdbbbf3a5d427741acd9e88d9d9482c5.js",
+    "precache-manifest.56f20e14d6a53de3f7bf34123d707c35.js": "/precache-manifest.56f20e14d6a53de3f7bf34123d707c35.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.8ab08dd0.chunk.css.map": "/static/css/main.8ab08dd0.chunk.css.map",
+    "static/css/main.fc24d668.chunk.css.map": "/static/css/main.fc24d668.chunk.css.map",
     "static/media/chibi.gif": "/static/media/chibi.54fee648.gif"
   }
 }
